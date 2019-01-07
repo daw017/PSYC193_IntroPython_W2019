@@ -1,6 +1,6 @@
 # PSYC193_IntroPython_W2019
-Instructor: John Serences 
-Instructor's Office: 5338 McGill Hall 
+# Instructor: John Serences 
+# Instructor's Office: 5338 McGill Hall 
 
 ## Time/Location: Weds 9-11:50am, Mandler 1539 (on the Muir Campus, classroom to the right if you're facing the UG advising office). 
 
@@ -43,32 +43,31 @@ Grades will be based on the percentage of points earned on quizzes, the midterm 
 
 Letter grades will be assigned based on the following table:
 
- A+ 97 100
+A+ 97-100
  
- A 93 96.99999
+A 93-96.99999
  
- A- 	  90 	 92.99999
+A- 90-92.99999
  
- B+ 	  87 	 89.99999
+B+ 87-89.99999
  
- B 	    83 	 86.99999
+B 83-86.99999
  
- B- 	  80 	 82.99999
+B- 80-82.99999
  
- C+ 	  77 	 79.99999
+C+ 77-79.99999
  
- C 	    73 	 76.99999
+C 73-76.99999
  
- C- 	  70 	 72.99999
+C- 70-72.99999
  
- D+ 	  67 	 69.99999
+D+ 67-69.99999
  
- D 	    63 	 66.99999
+D 63-66.99999
  
- D- 	  60 	 62.99999
+D- 60-62.99999
  
- F 	    0 	 59.99999
- 
+F 0-59.99999
 
 Example: There are 80+50+100=230 total points in the course and you earn a total of 203 points. You would end up with a 88.2% and would earn a B+ in the course.   
 
