@@ -18,7 +18,10 @@ At the end of the course you should have a good understanding of the Python lang
 Each week class time will be divided into several short lectures followed by coding sessions where you will work either alone or in small groups on exercises designed to reinforce topics from the lecture. I will walk around to provide help on the in-class assignments. After each work period is complete, I will display work from one person (or group) and will ask that person (or group) to walk us through their code. 
 
 ## Textbook
+Title: Python crash course : a hands-on, project-based introduction to programming
+Author: Matthes, Eric
 
+One copy of this book is on reserve at the library, and you can purchase from Amazon (both new and used) [here](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036/ref=sr_1_1?s=books&ie=UTF8&qid=1546894838&sr=1-1&keywords=Python+Crash+Course%3A+A+Hands-On%2C+Project-Based+Introduction+to+Programming)
 
 ## Exams
 
