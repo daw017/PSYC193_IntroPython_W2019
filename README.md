@@ -20,14 +20,24 @@ Each week class time will be divided into several short lectures followed by cod
 XXXXXX Midterm + final + assignments. 
 
 ## Course Schedule 
-January 9:	  Jupyter Environment, First Program, Basic variables (Strings, Ints) 
+January 9:	  Jupyter Environment, First Program, Basic variables (Strings, Ints)
+
 January 16: 	
+
 January 23:	
+
 January 30:	
+
 February 6:	  NO CLASS
+
 February 13:	
+
 February 20:	
+
 February 27:	
+
 March 6:	
+
 March 13:	
+
 Final TBD	
