@@ -43,9 +43,9 @@ Grades will be based on the percentage of points earned on quizzes, the midterm 
 
 Letter grades will be assigned based on the following table:
 
- A+ 	  97 	 100
+ A+ 97 100
  
- A 	    93 	 96.99999
+ A 93 96.99999
  
  A- 	  90 	 92.99999
  
@@ -93,4 +93,4 @@ Week08, March 6:	  TBD
 
 Week09, March 13:	  TBD	
 
-Final TBD	
+Final: Room/Time TBD	
