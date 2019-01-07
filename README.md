@@ -11,7 +11,7 @@
 ## First class Jan 9th, 2019
 
 ## Course description
-This course will introduce new programmers to Python and Jupyter Notebooks. Experience in another language may help, but no programming experience is neccessary as we'll start with the basics. 
+This course will introduce new programmers to Python and Jupyter Notebooks. Experience in another language may help, but no programming experience is necessary as we'll start with the basics. 
 
 Along the way you'll learn how to implement some simple statistical tests and general analysis techniques that many of you will encounter in your course work and in research projects.  
 
@@ -31,7 +31,7 @@ The book is not absolutely essential, but the first 1/2 of the course (at least)
 
 ## Exams
 
-### Short Quizes
+### Short Quizzes
 At the start of most class times [classes: 01,02,03,06,07,08,09] there will be a short quiz with questions focused on topics from the previous classes. These quizzes will be given online using google forms and must be taken in class. 
 
 Each of the 8 quizzes will be worth 10 points.
@@ -85,10 +85,9 @@ Grades will not be rounded.
 
 "Integrity of scholarship is essential for an academic community. The University expects that both faculty and students will honor this principle and in so doing protect the validity of University intellectual work. For students, this means that all academic work will be done by the individual to whom it is assigned, without unauthorized aid of any kind."
 
+[Please read the full UCSD policy](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
 
-[Please also read the full UCSD policy](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2)
-
-This course will also make extensive use of online quizzes and exams via Google Forms. This means that each of you will be sent an email and will take quizzes/exams online with your @ucsd.edu email linked to your grade. Taking a quiz or exam logged in as another student will be treated as a violation and you will be referred for disciplinary action. Similarly, emailing with or otherwise communicating with other students or anyone else during a quiz or exam will be treated as a violation and also referred for disciplinary action.   
+This course will also make use of online quizzes and exams via Google Forms. This means that each of you will be sent an email and will take quizzes/exams online with your user_name@ucsd.edu email linked to your grade. Taking a quiz or exam logged in as another student will be treated as a violation and you will be referred for disciplinary action. Similarly, emailing with or otherwise communicating with other students or anyone else during a quiz or exam will be treated as a violation and also referred for disciplinary action.   
 
 ## Course Schedule 
 Week00, January 9:	  What is Python?, Jupyter Environment, First Program, Basic variables (Strings, Ints)
