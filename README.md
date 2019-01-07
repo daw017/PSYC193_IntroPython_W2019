@@ -50,7 +50,9 @@ Grades will be based on the percentage of points earned on quizzes, the midterm 
 Letter grades will be assigned based on the following table:
 
 A+ 97-100
+
 A 93-96.99999
+
 A- 90-92.99999
  
 B+ 87-89.99999
