@@ -51,7 +51,7 @@ Plenty of time will be given in class to work on these problem sets, so hopefull
 
 At the end of the quarter, you must have all assignments done and your notebooks saved in your course folder on Google Drive (I will explain this in the first class). 
 
-I will check all problem sets periodically throughout the quarter, and completition of each assignment will be worth 5 points, for a total of 35-40 points (for 7-8 in-class problem sets) 
+I will check all problem sets periodically throughout the quarter, and completion of each assignment will be worth 5 points, for a total of 35-40 points (for 7-8 in-class problem sets) 
 
 ## Letter grade in course
 Grades will be based on the percentage of points earned on quizzes, the midterm and the final. 
