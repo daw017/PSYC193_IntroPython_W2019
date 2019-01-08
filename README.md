@@ -45,7 +45,7 @@ In class 05 on February 13th there will be a midterm that will cover material fr
 During finals week, during our assigned 3 hour time slot, there will be a comprehensive exam that covers material from the entire course. The final will be worth 100 points.
 
 ## In-class problem sets
-Most weeks in class we will have a problem set. You will usually work on this collabortively in groups, although some assignments may be individual. 
+Most weeks in class we will have a problem set. You will usually work on this collaboratively in groups, although some assignments may be individual. 
 
 Plenty of time will be given in class to work on these problem sets, so hopefully they will be mostly completed by the time you leave each day. These assignments are meant to give you the hands-on practice that you need to develop fluency in the language. 
 
