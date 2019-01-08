@@ -44,6 +44,15 @@ In class 05 on February 13th there will be a midterm that will cover material fr
 ### Final Exam
 During finals week, during our assigned 3 hour time slot, there will be a comprehensive exam that covers material from the entire course. The final will be worth 100 points.
 
+## Course work
+Most weeks in class we will have a problem set. You will usually work on this collabortively in groups, although some assignments may be individual. 
+
+Plenty of time will be given in class to work on these problem sets, so hopefully they will be completed by the time you leave each day. These assignments are meant to give you the hands-on practice that you need to really develop fluency in the language. 
+
+At the end of the quarter, you must have all assignments done and saved in notebooks in your course folder on Google Drive (I will explain this in the first class). 
+
+I will check all problem sets periodically throughout the quarter, and completition of each assignment will be worth 5 points, for a total of 35-40 points (7-8 in-class problem sets) 
+
 ## Letter grade in course
 Grades will be based on the percentage of points earned on quizzes, the midterm and the final. 
 
@@ -75,7 +84,7 @@ D- 60-62.99999
  
 F 0-59.99999
 
-Example: There are 60 (best 6/8 quizzes) + 50 (midterm) + 100 (final) = 210 total points in the course and you earn a total of 193 points. You would end up with a (193/210) = 91.9% and would earn a A- in the course. 
+Example: There are 60 (best 6/8 quizzes) + 50 (midterm) + 100 (final) + 40 (inclass problem sets) = 250 total points in the course and you earn a total of 213 points. You would end up with a (193/210) = 85.2% and would earn a B in the course. 
 
 Grades will not be rounded.
 
