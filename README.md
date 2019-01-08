@@ -47,11 +47,11 @@ During finals week, during our assigned 3 hour time slot, there will be a compre
 ## In-class problem sets
 Most weeks in class we will have a problem set. You will usually work on this collabortively in groups, although some assignments may be individual. 
 
-Plenty of time will be given in class to work on these problem sets, so hopefully they will be completed by the time you leave each day. These assignments are meant to give you the hands-on practice that you need to really develop fluency in the language. 
+Plenty of time will be given in class to work on these problem sets, so hopefully they will be mostly completed by the time you leave each day. These assignments are meant to give you the hands-on practice that you need to develop fluency in the language. 
 
-At the end of the quarter, you must have all assignments done and saved in notebooks in your course folder on Google Drive (I will explain this in the first class). 
+At the end of the quarter, you must have all assignments done and your notebooks saved in your course folder on Google Drive (I will explain this in the first class). 
 
-I will check all problem sets periodically throughout the quarter, and completition of each assignment will be worth 5 points, for a total of 35-40 points (7-8 in-class problem sets) 
+I will check all problem sets periodically throughout the quarter, and completition of each assignment will be worth 5 points, for a total of 35-40 points (for 7-8 in-class problem sets) 
 
 ## Letter grade in course
 Grades will be based on the percentage of points earned on quizzes, the midterm and the final. 
