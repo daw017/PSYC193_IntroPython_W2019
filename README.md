@@ -81,7 +81,7 @@ Grades will not be rounded.
 
 ## Academic Integrity
 
-[From UCSD Academic Integrity office](https://academicintegrity.ucsd.edu/take-action/promote-integrity/faculty/syllabus-statements.html#List-of-your-commitments-to-uph)
+[From UCSD Academic Integrity office](https://academicintegrity.ucsd.edu/take-action/promote-integrity/faculty/syllabus-statements.html#General-statement-on-academic-i)
 
 "Integrity of scholarship is essential for an academic community. The University expects that both faculty and students will honor this principle and in so doing protect the validity of University intellectual work. For students, this means that all academic work will be done by the individual to whom it is assigned, without unauthorized aid of any kind."
 
