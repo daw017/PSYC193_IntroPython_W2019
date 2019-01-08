@@ -89,25 +89,25 @@ Grades will not be rounded.
 
 This course will also make use of online quizzes and exams via Google Forms. This means that each of you will be sent an email and will take quizzes/exams online with your user_name@ucsd.edu email linked to your grade. Taking a quiz or exam logged in as another student will be treated as a violation and you will be referred for disciplinary action. Similarly, emailing with or otherwise communicating with other students or anyone else during a quiz or exam will be treated as a violation and also referred for disciplinary action.   
 
-## Course Schedule 
-Week00, January 9:	  What is Python?, Jupyter Environment, First Program, Basic variables (Strings, Ints)
+## Course Schedule (approximate, subject to change)
+Week00, January 9:	  What is Python?, Jupyter Environment (Google Colaboratory), First Program, Basic variables
 
-Week01, January 16: 	More on variables, lists, for loops, and list comprehensions
+Week01, January 16: 	More on variables, lists, for loops, list comprehensions, slicing lists
 
-Week02, January 23:	  TBD
+Week02, January 23:	  If..statements, dictionaries
 
-Week03, January 30:	  TBD	
+Week03, January 30:	  User input, while statements
 
 Week04, February 6:	  NO CLASS
 
-Week05, February 13:	  TBD	
+Week05, February 13:	  Midterm, functions	
 
-Week06, February 20:	  TBD	
+Week06, February 20:	  Classes, object-oriented programming	
 
-Week07, February 27:	  TBD	
+Week07, February 27:	  File Input/Output	
 
-Week08, March 6:	  TBD	
+Week08, March 6:	  NumPy (numerical computing module for data analysis), Plotting (Matplotlib/Seaborn) 
 
-Week09, March 13:	  TBD	
+Week09, March 13:	  Pandas (data frames) 
 
 Final: Room/Time TBD	
