@@ -32,7 +32,7 @@ The book is not absolutely essential, but the first 1/2 of the course (at least)
 ## Exams
 
 ### Short Quizzes
-At the start of most class times [classes: 01,02,03,06,07,08,09] there will be a short quiz with questions focused on topics from the previous classes. These quizzes will be given online using google forms and must be taken in class. 
+At the start of most class times [classes: 01,02,03,06,07,08,09] there will be a short quiz with questions focused on topics from the previous classes (approx. 10 multiple questions). These quizzes will be given online using google forms and must be taken in class. 
 
 Each of the 8 quizzes will be worth 10 points.
 
