@@ -27,7 +27,7 @@ Author: Matthes, Eric
 
 One copy of this book is on reserve at the library, and you can purchase from Amazon (both new and used) [here](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036/ref=sr_1_1?s=books&ie=UTF8&qid=1546894838&sr=1-1&keywords=Python+Crash+Course%3A+A+Hands-On%2C+Project-Based+Introduction+to+Programming)
 
-The book is not absolutely essential, but the first 1/2 of the course (at least) will track the topics in the book closely. This is intentional so that you can get the material in class and then also read the book to provide another perspective. 
+The book is not absolutely essential, but the first 6-7 lectures will closely track the chapters in Part I of the book so that you can get the material in class and then also read the book to provide another perspective. 
 
 ## Exams
 
