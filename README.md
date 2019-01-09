@@ -4,6 +4,8 @@
 
 # Instructor's Office: 5338 McGill Hall 
 
+# Office Hours: Tuesday 11-12
+
 ## Meeting time: Weds 9-11:50am
 
 ## Location: Mandler 1539 (on the Muir Campus, classroom is just to the right if you're facing the UG advising office). 
