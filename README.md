@@ -100,7 +100,7 @@ Grades will not be rounded.
 
 This course will also make use of online quizzes and exams via Google Forms. This means that each of you will be sent an email and will take quizzes/exams online with your user_name@ucsd.edu email linked to your grade. Taking a quiz or exam logged in as another student will be treated as a violation and you will be referred for disciplinary action. Similarly, emailing with or otherwise communicating with other students or anyone else during a quiz or exam will be treated as a violation and also referred for disciplinary action.   
 
-## Course Schedule (approximate, subject to change)
+## Course Schedule
 Week00, January 9: What is Python?, Jupyter Environment (Google Colab), First Program, Intro to object types and methods
 
 Week01, January 16: More on object types, lists, for loops, list comprehensions, slicing lists
@@ -116,8 +116,6 @@ Week05, February 13: Midterm, writing functions
 Week06, February 20: Classes, object-oriented programming
 
 Week07, February 27: File Input/Output, data formats for files (e.g. JSON, HDF5)
-
------end of following book-----
 
 Week08, March 6: NumPy (numerical computing), Plotting (Matplotlib/Seaborn)
 
